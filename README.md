@@ -1,5 +1,3 @@
-Recommender Systems with MovieLens
-
 This repository contains various implementations and notes of recommender systems for the movie ratings dataset. The following algorithms are included:
 
 * Matrix factorization with TensorFlow
